@@ -194,6 +194,7 @@ class _ChatsScreenState extends State<ChatsScreen> {
             icon: Icon(Icons.settings_outlined),
             label: "Settings",
 
+
           ),
         ],
       ),
