@@ -1,4 +1,4 @@
-# chats
+# notes
 
 A new Flutter project.
 
